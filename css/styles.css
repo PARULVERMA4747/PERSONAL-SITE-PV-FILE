@@ -43,12 +43,15 @@ h3{
   padding: 10px 30px 10px 30px;
   text-decoration: none;
 }
- .middle-ontainer{
+.middle-container{
+  margin: 100px 0px;
 
-  }
-  .bottom-container{
+.footer-link{ background-color: #EAF6F6;}
+.bottom-container{
+  background-color: #66BFBF;
+  line-height: 4;
 
-   }
+}
  .pro{
     text-decoration: underline;
   }
